@@ -80,3 +80,4 @@ This analysis can help hospital operations teams:
 **Project:** CarePlus Hospital Appointment Analysis Dashboard  
 **Category:** Healthcare Data Analytics  
 **Primary Tool:** Microsoft Excel
+**Link:** https://www.linkedin.com/in/aravind-j
